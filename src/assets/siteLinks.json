@@ -15,19 +15,9 @@
     "link": "https://music.ick.moe/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://ick.moe/"
-  },
-  {
     "icon": "Book",
     "name": "CDN",
     "link": "https://cdn.ick.moe/"
-  },
-  {
-    "icon": "Fire",
-    "name": "头像生成",
-    "link": "https://notion-avatar.ick.moe/"
   },
   {
     "icon": "LaptopCode",
